@@ -1,4 +1,3 @@
-python-telegram-bot~=20.0
-SQLAlchemy
-APScheduler
-python-dotenv
+python-telegram-bot==20.6
+apscheduler==3.10.1
+SQLAlchemy==2.0.19
